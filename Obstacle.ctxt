@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Obstacle
+comment1.params=xPos\ yPos
+comment1.target=Obstacle(int,\ int)
+comment2.params=
+comment2.target=boolean\ getCut()
+comment3.params=
+comment3.target=void\ cut()
+comment4.params=page
+comment4.target=void\ draw(java.awt.Graphics)
+numComments=5
